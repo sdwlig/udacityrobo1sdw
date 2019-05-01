@@ -1,0 +1,139 @@
+yaml dict:
+- arm_name: right
+  object_name: biscuits
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.5415237545967102
+      y: -0.2319752776622772
+      z: 0.701692521572113
+    position:
+      x: 0.5415237545967102
+      y: -0.2319752776622772
+      z: 0.701692521572113
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: -0.71
+      z: 0.605
+  test_scene_num: 1
+- arm_name: right
+  object_name: soap
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.54326331615448
+      y: -0.008364761024713516
+      z: 0.6740614771842957
+    position:
+      x: 0.54326331615448
+      y: -0.008364761024713516
+      z: 0.6740614771842957
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: -0.71
+      z: 0.605
+  test_scene_num: 1
+- arm_name: left
+  object_name: soap2
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.44605064392089844
+      y: 0.23132916748523713
+      z: 0.6777417659759521
+    position:
+      x: 0.44605064392089844
+      y: 0.23132916748523713
+      z: 0.6777417659759521
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: 0.71
+      z: 0.605
+  test_scene_num: 1
+- arm_name: left
+  object_name: soap2
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.27801913022994995
+      y: 0.5715149140357971
+      z: 0.725896418094635
+    position:
+      x: 0.27801913022994995
+      y: 0.5715149140357971
+      z: 0.725896418094635
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: 0.71
+      z: 0.605
+  test_scene_num: 1
+- arm_name: left
+  object_name: soap2
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.32799434661865234
+      y: 0.013113544313237071
+      z: 0.6056817770004272
+    position:
+      x: 0.32799434661865234
+      y: 0.013113544313237071
+      z: 0.6056817770004272
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: 0.71
+      z: 0.605
+  test_scene_num: 1
+- arm_name: right
+  object_name: biscuits
+  pick_pose:
+    orientation:
+      w: 0.1
+      x: 0.28151556849479675
+      y: -0.5488847398757934
+      z: 0.6909975409507751
+    position:
+      x: 0.28151556849479675
+      y: -0.5488847398757934
+      z: 0.6909975409507751
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0
+      y: -0.71
+      z: 0.605
+  test_scene_num: 1
